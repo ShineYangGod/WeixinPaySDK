@@ -1,0 +1,6 @@
+framework module WeixinSDK {
+  umbrella header "WeixinSDK.h"
+
+  export *
+  module * { export * }
+}
